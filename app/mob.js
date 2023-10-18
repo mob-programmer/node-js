@@ -1,6 +1,6 @@
 const mob = {
   canMakeTestPass: function() {
-    return false;
+    return true;
   }
 };
 
